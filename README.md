@@ -1,10 +1,5 @@
 # Practical 8: Performance Optimization and Lazy Loading in React
 
-**Student Name:** Deep Chauhan  
-**Student ID:** 24CS012  
-**Course:** ITUE301 / CSE304 — Advanced Web Development Frameworks  
-**Institution:** Charotar University of Science and Technology (CHARUSAT) — CSPIT / DEPSTAR  
-
 ---
 
 ## 📌 Project Overview
